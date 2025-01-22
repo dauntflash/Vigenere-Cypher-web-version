@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Shield shape -->
+  <path d="M128 8 L36 44 V128 C36 180 76 216 128 248 C180 216 220 180 220 128 V44 L128 8 Z" 
+        fill="rgb(179, 122, 17)" stroke="#fffff0" stroke-width="2"/>
+
+  <!-- Random letters inside the shield -->
+  <text x="50%" y="35%" text-anchor="middle" fill="#fffff0" font-size="16" font-family="Arial, sans-serif">
+    A B C D
+  </text>
+  <text x="50%" y="50%" text-anchor="middle" fill="#fffff0" font-size="16" font-family="Arial, sans-serif">
+    E F G H
+  </text>
+  <text x="50%" y="65%" text-anchor="middle" fill="#fffff0" font-size="16" font-family="Arial, sans-serif">
+    I J K L
+  </text>
+</svg>
